@@ -1,6 +1,5 @@
 
 Saya akan melakukan beberapa kali revisi dan commit untuk mengetahui bagaimana commit itu bekerja
 selanjutnya akan saya coba lakukan branching terhadap file ini
-Sekarang saya mencoba untuk melakukan commit pertama
-Saya akan menghapus line pertama sebagai perubahan
 Saya juga merevisi baris kedua 
+Ini adalah commit ke-2, saya akan hapus line ke-5 dan ke-4
