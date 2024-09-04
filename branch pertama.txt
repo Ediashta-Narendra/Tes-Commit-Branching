@@ -3,3 +3,4 @@ tujuan file ini dibuat terpisah dengan main branch adalah agar tidak mengganggu 
 Saya edit commit pada branch pertama ini untuk yang pertama kali
 tidak ada line yang saya hapus
 tambahan editan setelah dimerge
+Saya adalah si A, yang ditugaskan untuk menambahkan konten pada file di branch ini
