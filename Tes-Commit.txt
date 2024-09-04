@@ -1,3 +1,6 @@
-Saya membuat file on cloud di Github
-Kemudian saya akan melakukan beberapa kali revisi dan commit untuk mengetahui bagaimana commit itu bekerja
+
+Saya akan melakukan beberapa kali revisi dan commit untuk mengetahui bagaimana commit itu bekerja
 selanjutnya akan saya coba lakukan branching terhadap file ini
+Sekarang saya mencoba untuk melakukan commit pertama
+Saya akan menghapus line pertama sebagai perubahan
+Saya juga merevisi baris kedua 
