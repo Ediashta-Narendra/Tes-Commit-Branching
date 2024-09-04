@@ -1,0 +1,4 @@
+file ini menjadi file .txt saya dalam membuat branch
+tujuan file ini dibuat terpisah dengan main branch adalah agar tidak mengganggu konten yang ada dalam brach main tersebut, karena apa yang saya buat disini merupakan uji coba dan belum tentu
+Saya edit commit pada branch pertama ini untuk yang pertama kali
+tidak ada line yang saya hapus
