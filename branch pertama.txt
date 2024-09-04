@@ -4,3 +4,4 @@ Saya edit commit pada branch pertama ini untuk yang pertama kali
 tidak ada line yang saya hapus
 tambahan editan setelah dimerge
 Saya adalah si A, yang ditugaskan untuk menambahkan konten pada file di branch ini
+Oh ada yang kurang, saya tambahkan lagi di line ini ya
