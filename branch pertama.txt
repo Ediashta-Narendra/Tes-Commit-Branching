@@ -4,3 +4,6 @@ tidak ada line yang saya hapus
 tambahan editan setelah dimerge
 Halo, saya si B yang juga akan mengedit file ini
 saya coba hapus line kedua ya
+Saya adalah si A, yang ditugaskan untuk menambahkan konten pada file di branch ini
+Oh ada yang kurang, saya tambahkan lagi di line ini ya
+
