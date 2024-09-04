@@ -1,0 +1,3 @@
+Saya membuat file on cloud di Github
+Kemudian saya akan melakukan beberapa kali revisi dan commit untuk mengetahui bagaimana commit itu bekerja
+selanjutnya akan saya coba lakukan branching terhadap file ini
